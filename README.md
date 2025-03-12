@@ -3,6 +3,7 @@
 This repository is part of my daily challenge to complete projects from roadmap.sh as a refresher to strengthen my coding skills. Each day, I aim to finish a small project to reinforce key programming concepts and improve problem-solving abilities.
 
 Project: CLI-Based Number Guessing Game
+https://github.com/haezcela/NumberGuessingGame
 
 **How It Works**
 
