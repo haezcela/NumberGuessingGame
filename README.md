@@ -1,14 +1,14 @@
-##About This Repository
+**About This Repository**
 
 This repository is part of my daily challenge to complete projects from roadmap.sh as a refresher to strengthen my coding skills. Each day, I aim to finish a small project to reinforce key programming concepts and improve problem-solving abilities.
 
 Project: CLI-Based Number Guessing Game
 
-##How It Works
+**How It Works**
 
 This is a simple command-line game where the user tries to guess a randomly generated number between 1 and 100. The game includes three difficulty levels that determine the number of attempts allowed.
 
-##Features
+**Features**
 
 The game starts with a welcome message and rules.
 
@@ -32,7 +32,7 @@ If the user runs out of attempts, the correct number is revealed.
 
 Input validation ensures the user enters valid numbers.
 
-##How to Run
+**How to Run**
 
 Compile the Java program:
 
@@ -44,6 +44,6 @@ java Main
 
 Follow the on-screen instructions to play.
 
-##Why I'm Doing This
+**Why I'm Doing This**
 
 Following the roadmap helps me stay consistent with coding practice, refresh fundamental concepts, and build small yet meaningful projects. This hands-on approach improves problem-solving skills and reinforces learning.
