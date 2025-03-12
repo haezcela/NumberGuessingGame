@@ -32,7 +32,7 @@ class NumberGuessingGame {
         System.out.println("[3] Hard (5 attempts)");
         System.out.print("Enter difficulty (1/2/3): ");
         
-        String difficulty = scanner.nextLine().trim().toLowerCase();  // Use nextLine() to capture input correctly
+        String difficulty = scanner.nextLine().trim().toLowerCase();  
         
         switch (difficulty) {
             case "1":
